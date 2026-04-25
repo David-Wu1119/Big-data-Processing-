@@ -1,0 +1,32 @@
+Subject: Final Code Drop HDFS Access Request
+
+Hello HPC team,
+
+Please provide access for the following users:
+- pd2672_nyu_edu
+- adm209_nyu_edu
+
+Student:
+Yanze Wu
+
+Project data locations:
+
+Taxi raw HDFS path:
+/user/yw7566_nyu_edu/final_code_drop/raw/taxi/yellow_tripdata_2024-01.parquet
+
+Weather raw HDFS path:
+/user/yw7566_nyu_edu/final_code_drop/raw/weather
+
+Taxi cleaned HDFS path:
+/user/yw7566_nyu_edu/final_code_drop/etl/taxi_clean
+
+Weather cleaned HDFS path:
+/user/yw7566_nyu_edu/final_code_drop/etl/weather_clean
+
+Analytics feature output:
+/user/yw7566_nyu_edu/final_code_drop/analytics/features
+
+Analytics metrics output:
+/user/yw7566_nyu_edu/final_code_drop/analytics/metrics
+
+Thank you.
